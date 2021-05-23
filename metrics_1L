@@ -1,0 +1,9 @@
+recall_5              	all	0.0004
+recall_10             	all	0.0008
+recall_15             	all	0.0008
+recall_20             	all	0.0008
+recall_30             	all	0.0008
+recall_100            	all	0.0008
+recall_200            	all	0.0008
+recall_500            	all	0.0008
+recall_1000           	all	0.0008
